@@ -11,3 +11,9 @@ F(0)=0,F(1)=1
 The sequence begins as follows: 0, 1, 1, 2, 3, 5, 8, 13, 21, …
 
 It has applications in computer science, mathematics, and nature, appearing in biological settings such as branching in trees, the arrangement of leaves, and the spirals of shells. The ratio between consecutive Fibonacci numbers approximates the golden ratio (𝜙 ≈ 1.618), which is often associated with aesthetics and natural proportions.
+
+# Compiling
+
+javac fib.java
+
+java fib

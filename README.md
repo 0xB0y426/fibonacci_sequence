@@ -18,4 +18,6 @@ javac fib.java
 
 java fib
 
+# Example
+
 ![fibonacci](fib.png)

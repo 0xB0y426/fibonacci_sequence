@@ -17,3 +17,5 @@ It has applications in computer science, mathematics, and nature, appearing in b
 javac fib.java
 
 java fib
+
+![fibonacci](fib.png)
